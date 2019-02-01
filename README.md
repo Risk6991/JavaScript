@@ -1,2 +1,5 @@
-# JavaScript
-JavaScriptの練習用　現在はテキストの写経がメインになっています。
+# 教材
+<a　href="https://www.amazon.co.jp/%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%92%E4%BD%9C%E3%82%8A%E3%81%AA%E3%81%8C%E3%82%89%E6%A5%BD%E3%81%97%E3%81%8F%E5%AD%A6%E3%81%B9%E3%82%8BHTML5-CSS-JavaScript%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%EF%BC%BB%E6%94%B9%E8%A8%82%E7%89%88%EF%BC%BD-Future-Coders%EF%BC%88NextPublishing%EF%BC%89-ebook/dp/B06XRSFM6G/ref=sr_1_2?s=digital-text&ie=UTF8&qid=1549038123&sr=1-2&keywords=html+css+javascript">ゲームを作りながら楽しく学べるHTML5+CSS+JavaScriptプログラミング</a>
+
+
+<a　href="https://www.amazon.co.jp/%E3%82%B9%E3%83%A9%E3%82%B9%E3%83%A9%E8%AA%AD%E3%82%81%E3%82%8B-JavaScript%E3%81%B5%E3%82%8A%E3%81%8C%E3%81%AA%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0-%E5%8F%8A%E5%B7%9D%E5%8D%93%E4%B9%9F-ebook/dp/B07DR76HSG/ref=pd_sbs_351_2/358-0263304-8213168?_encoding=UTF8&pd_rd_i=B07DR76HSG&pd_rd_r=93721aae-263d-11e9-8bb4-3f81336e79c1&pd_rd_w=v8Vtl&pd_rd_wg=DUQKL&pf_rd_p=ad2ea29d-ea11-483c-9db2-6b5875bb9b73&pf_rd_r=14C0JXGD68CP9BYH21FY&psc=1&refRID=14C0JXGD68CP9BYH21FY">スラスラ読める JavaScriptふりがなプログラミング</a>
